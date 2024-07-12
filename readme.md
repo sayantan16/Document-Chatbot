@@ -11,4 +11,9 @@
 <!-- Other links to explore -->
 
 1. instructor-embedding: very slow, need high gpu power but free embeddings
-2.
+
+
+For Windows Machine:
+
+1. venv\Scripts\activate
+2. streamlit run app.py
